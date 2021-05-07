@@ -26,5 +26,10 @@ namespace ProjektSkola0705
         {
             MessageBox.Show("Víkend začíná");
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("já kolaborant kondratov");
+        }
     }
 }
